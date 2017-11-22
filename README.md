@@ -7,6 +7,9 @@ Here's where we'll describe this repository a little. I'd emphasize that the tut
 We can also give a quick summary of each Part:
 
 ### Part One:
+
+[notebook here](Part 1 - Python Basics for Agent Based Modelling.ipynb)
+
 Part one lays out the Python basics you'll need to be reasonably comfortable with to build the models in the following sections. We hope that even somebody who hasn;t used any programming language before could follow this notebook, but it is designed to be readble in an afternoon by someone who understands how programming works generally (e.g. can code in another language, like R or Matlab), but doesn't have much experience with  Python. 
 
 ### Part Two:
