@@ -4,6 +4,8 @@ A Tutorial for Agent Based Models in Python
 
 Here's where we'll describe this repository a little. I'd emphasize that the tutorial follows our interests in language and interaction, but demonstrates some simple principles of agent based modelling -- and iomplementing a model in Python in particular -- that could well be useful more broadly to anybody wishing to simulate simple populations.
 
+You can download the whole of this tutorial by clicking the green "Clone or Download" button at the top right of this page. 
+
 We can also give a quick summary of each Part:
 
 ### Part One:
