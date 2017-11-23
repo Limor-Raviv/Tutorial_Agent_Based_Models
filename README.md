@@ -2,6 +2,7 @@
 A Short Tutorial on Agent Based Modeling in Python
 
 Authors: Limor Raviv and Bill Thompson
+
 *Updated: 23.11.2017*
 
 ## Summary
@@ -47,6 +48,8 @@ By the end of the notebook you'll be running multiple simulations on different c
 [notebook here](https://github.com/Limor-Raviv/Tutorial_Agent_Based_Models/blob/master/Part%203%20-%20A%20slightly%20More%20Complex%20Agent%20Based%20Model.ipynb)
 
 Part three expands on the functions introduced in part two and introduces new features for building a sligfhtly more complex and ecologically valid model of communicating agents.
+
+
 
 Hope you'll find this tutorial useful, and we'd love to hear from you!
 
