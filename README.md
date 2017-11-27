@@ -3,11 +3,11 @@ A Short Tutorial on Agent Based Modeling in Python
 
 Authors: Limor Raviv and Bill Thompson
 
-*Updated: 23.11.2017*
+*Updated: 25.11.2017*
 
 ## Summary
 
-This repository contains three Jupyter notebooks offering a short tutorial for agent-based modeling using Python.
+This repository contains three Jupyter notebooks offering a short tutorial on agent-based modeling using Python.
 They are intended to offer anyone with little or no prior experience with Python the ability to incrementally construct a simple simulation of sound change in a population of agents with different personalities (stubborn or flexible learners). We will try to answer questions like: Has one of the variants spread to the entire community? Does this depend on the community's size and initial structure? How many stubborn people must be present to prevent (or facilitate?) convergence? etc.
 
 This choice of model and questions reflect our personal theoretical interests: the cultural evolution of language through interaction in populations. However, we hope that the tutorials can also be of use to those who wish to build simulations of completely different topics, by modifying the basic parameters of the model. 
