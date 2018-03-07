@@ -19,13 +19,15 @@ Please let us know if you have any comments, suggestions or questions regarding 
 
 ## Technical Requirements
 
-To view the tutorial in the browser, just click on each notebook. For a more interactive experience in which you can fiddle with the code and run the simulations yourself, you can download the tutorial by clicking the green "Clone or Download" button at the top right of this page. 
+To view the tutorial in the browser, just click on each notebook. For a more interactive experience in which you can fiddle with the code and run the simulations yourself, you can download the tutorial by clicking the green "Clone or Download" button at the top right of this page, and open it as a Jupyter Notebook. 
 
-You'll need [Python](https://www.python.org/downloads/) and [Jupyter](http://jupyter.org) installed to run the notebooks yourself. We recommend using the [Anaconda](https://anaconda.org/anaconda/python) distribution of Python, which already includes everything you need including Jupyter. We wrote the tutorial using Python 2.7, so it's probably better to use Python 2.7 to run the notebooks unless you understand the differences between Python versions 2.7 and 3.x.
+You'll need [Python](https://www.python.org/downloads/) and [Jupyter](http://jupyter.org) installed to run the notebooks yourself. We recommend using the [Anaconda](https://anaconda.org/anaconda/python) distribution of Python, which already includes everything you need including Jupyter. If you need any help with the installation process, you can check out these two tutorials: for installing Anaconda on [Windows](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444) or on a [Mac](https://medium.com/@GalarnykMichael/install-python-on-mac-anaconda-ccd9f2014072). We wrote the tutorial using Python 2.7, so it's probably better to use Python 2.7 to run the notebooks unless you understand the differences between Python versions 2.7 and 3.x.
+
+For instructions on how to open and use jupyter notebooks, see [this page](http://jupyter.readthedocs.io/en/latest/running.html).  
 
 
 ## Notebooks
-If you already know Python, jumpy straight to Part Two. 
+If you already know Python, jump straight to Part Two. 
 
 ### Part One:
 
@@ -34,6 +36,8 @@ If you already know Python, jumpy straight to Part Two.
 Part one lays out the Python basics. We hope that this notebook can be a good starting point even with no prior experience of programming, but it is designed to be readable in an afternoon by someone who understands how programming works in general (e.g. can code in another language, like R or Matlab), but doesn't have much experience with Python. 
 
 You'll need to be reasonably comfortable with the material in this notebook to begin building the models in the following sections. 
+
+To open the jupyter notebook, 
 
 ### Part Two:
 
